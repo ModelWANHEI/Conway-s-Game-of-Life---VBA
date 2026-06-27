@@ -23,7 +23,7 @@ A Macro Script that simulates Conway's Game of Life within an Excel Worksheet.
 
 ## How to Run
 
-1. Enable Macros (Right Click the downloaded file, properties, check unblock, apply)
+1. Enable Macros (Right Click the downloaded file, properties, check unblock, apply. You may also have to enable macros on the yellow banner when you first open the file.).
 2. Open GameOfLife.xlsm.
 3. Configure settings. If you do not want any seed, set seed to -1. This will generate a random board each time.
 4. Click Seed.
